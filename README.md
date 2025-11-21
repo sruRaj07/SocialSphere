@@ -1,5 +1,7 @@
 # Social Media App Backend
 
+image.png
+
 A production-ready Spring Boot backend that powers a social platform for like-minded people. It offers secure authentication, rich content sharing (posts, reels, stories, comments), real-time chat via WebSockets, notifications, and email-driven password recovery on top of a PostgreSQL database.
 
 ## Highlights
